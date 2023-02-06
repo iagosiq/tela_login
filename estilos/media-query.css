@@ -6,12 +6,12 @@
     }
 
     #login {
-        width: 750px;
+        width: 768px;
     }
 
     #imagem {
         float: left;
-        width: 30vw;
+        width: 24vw;
         height: 100vh;
     }
 
@@ -39,9 +39,8 @@
     }
 
     #imagem {
-        float: right;
-        width: 44%;
-        height: 100vh;
+        width: 100%;
+        height: 200px;
     }
 
     #formulario > p {
