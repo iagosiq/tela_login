@@ -55,6 +55,7 @@ main {
 
 #formulario > p {
     font-size: .8em;
+    padding-bottom: 10px;
 }
 
 .campo {

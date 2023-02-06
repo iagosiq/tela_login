@@ -7,6 +7,7 @@
 
     #login {
         width: 768px;
+        height: 400px;
     }
 
     #imagem {
@@ -17,6 +18,10 @@
 
     section#login > div#formulario {
        margin-left: 235px;
+       display: block;
+       position: relative;
+       top: 50%;
+       transform: translateY(-50%);
     }
 
     #formulario > h1 {
